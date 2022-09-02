@@ -1,0 +1,64 @@
+*{
+    background-color: rgb(241, 224, 224);
+    margin: 20px;
+    
+}
+
+#Titulo {
+    font-family: comic sans MS;
+    text-align: center;
+    font-size: 200% ;
+}
+#Subtitulo1 {
+    font-family:'Fredoka One', cursive;
+    font-size: 170% ;
+}
+#parrafo1 {
+    font-family: calibri;
+    font-size: 150%;
+}
+#parrafo2 {
+    font-family: calibri;
+    font-size: 150%;
+}
+#subtitulo2 {
+    font-family:'Fredoka One', cursive;
+    font-size: 170% ;
+}
+#tipos{
+    font-family: comic sans MS;
+    font-size: 150%;
+    margin: 0px;
+    padding-left: 0%;
+    color: black
+    
+}
+#Concepto1 {
+    font-family: calibri;
+    font-size: 150%;
+    margin-top: 0px;
+}
+#imagen {
+    margin-left: 0px;
+}
+#siguenos {
+    font-family:calibri;
+    font-size: 180%;
+
+}
+nav {
+    list-style: none;
+    margin: 0%;
+    padding-left: 0%;
+    
+}
+#enlaces {
+    list-style: none;
+    margin: 0%;
+    padding-left: 0%;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
